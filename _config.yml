@@ -1,0 +1,25 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://1025app.com
+title: 1025 Disc Golf
+email: info@1025app.com
+description: "Drive for show, putt for dough"
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: Buy in the App Store
+    icon: apple
+    url: https://itunes.apple.com/us/app/1025-disc-golf-putting-practice/id532051955?mt=8&uo=4&at=11lbR6
